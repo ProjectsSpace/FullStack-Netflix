@@ -3,3 +3,4 @@
 // It's easy to maintain
 
 export { default as Jumbotron } from "./jumbotron";
+export { default as Footer } from "./footer";
